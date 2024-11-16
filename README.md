@@ -29,6 +29,17 @@ You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
+## Laravel is best for
+
+**Traffic-Handling**
+A website built in Laravel can handle website requests much quicker than most other frameworks. Laravel uses a unique message queue system, which means you can put-off certain website tasks such as sending emails until a later time.
+
+**Better website performance**
+Unlike many other frameworks out there, Laravel supports caching for your website out-of-the-box which is great for boosting your site speed. 
+
+**Really Flexible**
+Laravel has the power to build a fully-fledged eCommerce site or a simple and professional B2B site. Due to its extensive pre-installed authorization libraries, it has the ability to create and support a variety of advanced features for your site, such as password reset and encryption.
+
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
@@ -64,3 +75,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
